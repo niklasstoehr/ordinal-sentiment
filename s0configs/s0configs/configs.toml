@@ -1,0 +1,12 @@
+[paths]
+sentiments = "data/sentiments"
+experiments = "results/experiments"
+proc_sentiments = "data/proc_sentiments"
+plots = "results/plots"
+optimal_c = "results/optimal_c"
+models = "results/models"
+glove = "/Users/niklasstoehr/Libraries/glove"
+scale = "results/scale"
+tasks = "data/tasks"
+task_processed = "data/tasks/processed"
+
